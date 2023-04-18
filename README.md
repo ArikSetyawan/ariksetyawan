@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi there, I'm Arik Setyawan 👋
+  - I am a software engineer who like playing with [snake](https://python.org) in a [bottle](https://flask.palletsprojects.com/en/2.2.x/) and [birds](https://flutter.dev/)
+  - Passionately developing website and webservices
+  - I usually develop software with [Python](https://python.org), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [MySQL](https://www.mysql.com), [MongoDB](https://www.mongodb.com), [Neo4j](https://neo4j.com), also interested in [Express.JS](https://expressjs.com) and [Flutter](https://flutter.dev/).
+  
+## Stats
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ariksetyawan&theme=radical&layout=compact) ![programing language](https://github-readme-stats.vercel.app/api/top-langs/?username=ariksetyawan&theme=radical&layout=compact)
 <!--
 **ArikSetyawan/ariksetyawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
