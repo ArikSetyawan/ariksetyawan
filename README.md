@@ -1,7 +1,7 @@
 ### Hi there, I'm Arik Setyawan 👋
   - I am a software engineer who like playing with [snake](https://python.org) in a [bottle](https://flask.palletsprojects.com/) and [birds](https://flutter.dev/)
   - Passionately developing website, mobile apps, and webservices
-  - I usually develop software with [Python](https://python.org), [Flask](https://flask.palletsprojects.com/), [Flutter](https://flutter.dev/), [PHP](https://www.php.net/), [Laravel](https://laravel.com/), [MySQL](https://www.mysql.com), [MongoDB](https://www.mongodb.com), [Neo4j](https://neo4j.com).
+  - I usually develop software with [Python](https://python.org), [Flask](https://flask.palletsprojects.com/), [Flutter](https://flutter.dev/), [PHP](https://www.php.net/), [Laravel](https://laravel.com/), [MySQL](https://www.mysql.com), [MongoDB](https://www.mongodb.com), and [Neo4j](https://neo4j.com).
   
 ## Stats
 
